@@ -1,4 +1,4 @@
-# Time series methods overview from ARIMA to LSTMs
+# Time series methods overview:from ARIMA to LSTMs
 
 ### 1. Basic Concepts in Time Series
 
